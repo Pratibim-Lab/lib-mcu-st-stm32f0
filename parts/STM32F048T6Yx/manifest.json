@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F0/STM32F048T6Yx:STM32F048T6Yx",
+  "name": "STM32F048T6Yx",
+  "library": "MCU_ST_STM32F0",
+  "file": "MCU_ST_STM32F0.kicad_symdir/STM32F048T6Yx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0 MCU, 32KB flash, 6KB RAM, 48 MHz, 1.65-1.95V, 29 GPIO, WLCSP36",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f048t6.pdf",
+  "keywords": "Arm Cortex-M0 STM32F0 STM32F0x8",
+  "footprint": "Package_CSP:ST_WLCSP-36_Die445",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f0@master/parts/STM32F048T6Yx/",
+  "part_path": "parts/STM32F048T6Yx",
+  "symbol_file": "parts/STM32F048T6Yx/STM32F048T6Yx.kicad_sym",
+  "source_library": "MCU_ST_STM32F0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:11.008Z"
+}

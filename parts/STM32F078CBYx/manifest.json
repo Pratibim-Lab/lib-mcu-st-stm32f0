@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F0/STM32F078CBYx:STM32F078CBYx",
+  "name": "STM32F078CBYx",
+  "library": "MCU_ST_STM32F0",
+  "file": "MCU_ST_STM32F0.kicad_symdir/STM32F078CBYx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0 MCU, 128KB flash, 16KB RAM, 48 MHz, 1.65-1.95V, 36 GPIO, WLCSP49",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f078cb.pdf",
+  "keywords": "Arm Cortex-M0 STM32F0 STM32F0x8",
+  "footprint": "Package_CSP:ST_WLCSP-49_Die448",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f0@master/parts/STM32F078CBYx/",
+  "part_path": "parts/STM32F078CBYx",
+  "symbol_file": "parts/STM32F078CBYx/STM32F078CBYx.kicad_sym",
+  "source_library": "MCU_ST_STM32F0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:11.266Z"
+}

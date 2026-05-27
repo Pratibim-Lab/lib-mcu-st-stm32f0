@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F0/STM32F038F6Px:STM32F038F6Px",
+  "name": "STM32F038F6Px",
+  "library": "MCU_ST_STM32F0",
+  "file": "MCU_ST_STM32F0.kicad_symdir/STM32F038F6Px.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0 MCU, 32KB flash, 4KB RAM, 48 MHz, 1.65-1.95V, 14 GPIO, TSSOP20",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f038f6.pdf",
+  "keywords": "Arm Cortex-M0 STM32F0 STM32F0x8",
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f0@master/parts/STM32F038F6Px/",
+  "part_path": "parts/STM32F038F6Px",
+  "symbol_file": "parts/STM32F038F6Px/STM32F038F6Px.kicad_sym",
+  "source_library": "MCU_ST_STM32F0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:10.949Z"
+}

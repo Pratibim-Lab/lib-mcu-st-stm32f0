@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F0/STM32F042G_4-6_Ux:STM32F042G_4-6_Ux",
+  "name": "STM32F042G_4-6_Ux",
+  "library": "MCU_ST_STM32F0",
+  "file": "MCU_ST_STM32F0.kicad_symdir/STM32F042G_4-6_Ux.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0 MCU, 16-32KB flash, 6KB RAM, 48 MHz, 2.0-3.6V, 23 GPIO, UFQFPN28",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f042g4.pdf",
+  "keywords": "Arm Cortex-M0 STM32F0 STM32F0x2",
+  "footprint": "Package_DFN_QFN:QFN-28_4x4mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f0@master/parts/STM32F042G_4-6_Ux/",
+  "part_path": "parts/STM32F042G_4-6_Ux",
+  "symbol_file": "parts/STM32F042G_4-6_Ux/STM32F042G_4-6_Ux.kicad_sym",
+  "source_library": "MCU_ST_STM32F0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:10.979Z"
+}
